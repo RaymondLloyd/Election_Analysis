@@ -14,7 +14,8 @@ election_results.csv--[election_results.zip](https://github.com/RaymondLloyd/Ele
 ## Results of the Election
 -[election_analysis.txt](https://github.com/RaymondLloyd/Election_Analysis/files/6253877/election_analysis.txt)
  
--![Election Results](https://user-images.githubusercontent.com/79877349/113496701-240ebd00-94b1-11eb-8289-ed2b5d32bf4a.png)
+-![Election Results](https://user-images.githubusercontent.com/79877349/113496778-e65e6400-94b1-11eb-92d8-da1eef9abf41.png)
+
 
 
 ## Challenge overview
